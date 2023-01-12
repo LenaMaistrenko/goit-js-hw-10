@@ -31,7 +31,8 @@ body {
 .country-info {
   max-width: 700px;
   background-color: rgba(255, 255, 255, 0.6);
-  border-radius: 5px;
+
+
 }
 .flag-header {
 
@@ -40,5 +41,6 @@ body {
 }
 .list-country {
   background-color: rgba(255, 255, 255, 0.6);
-  border: solid;
-  border-radius: 5px;}
+  border: solid #867272;
+  border-radius: 5px;
+}
