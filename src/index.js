@@ -40,7 +40,7 @@ function outputCountries(data) {
   const markup = data
     .map(country => {
       return `
-        <li>
+        <li class = "list-country">
         <img src='${country.flags.svg}' alt='flag' width="60" height="60">
         <p>${country.name.official}</p>
         </li>`;
