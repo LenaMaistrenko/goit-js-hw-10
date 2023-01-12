@@ -47,5 +47,5 @@ function outputCountries(data) {
   return markup;
 }
 function outputCountry(data) {
-  return ``;
+  return `<img src='${data.flags.svg}' alt='flag' width="60" height="60">`;
 }
