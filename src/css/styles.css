@@ -23,7 +23,7 @@ body {
   list-style: none;
   padding: 0;
   max-width: 700px;
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color:#bae6fa;
 
   border-radius: 5px;
   }
@@ -41,6 +41,6 @@ body {
 }
 .list-country {
   background-color: rgba(255, 255, 255, 0.6);
-  border: solid #867272;
+  border: solid #37a6da;
   border-radius: 5px;
 }
